@@ -1,0 +1,6 @@
+numpy
+pandas
+duckdb>=1.0
+openpyxl
+pyarrow
+matplotlib

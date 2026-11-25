@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code or its results, please cite it as below."
+title: "Online Retail II: revenue, retention and baskets with SQL"
+abstract: "SQL-first analysis of the Online Retail II dataset: data quality, KPIs, cohort retention, RFM segmentation and market-basket analysis."
+authors:
+  - family-names: Hussain
+    given-names: Ashhar
+    orcid: "https://orcid.org/0009-0009-1568-9852"
+    affiliation: "Department of Computer Science and Information Technology, University of Kotli, AJ&K, Pakistan"
+repository-code: "https://github.com/Ashhar-Hussain/retail-analytics-sql"
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-25"
+keywords:
+  - SQL
+  - DuckDB
+  - cohort analysis
+  - RFM
+  - market basket analysis
+  - business analytics
